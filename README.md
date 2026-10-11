@@ -1,6 +1,6 @@
 # CodeAlpha Task 1: Web Scraping | Kenyan E-commerce Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://colab.research.google.com/github/evans25575/CodeAlpha_WebScraping/blob/main/Task1_Web_Scraping.ipynb)](https://colab.research.google.com/github/evanskips2727-del/CodeAlpha_WebScraping/blob/main/Task1_Web_Scraping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evanskips2727-del/CodeAlpha_WebScraping/blob/main/Task1_Web_Scraping.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/Code%20license-MIT-lightgrey)
@@ -108,7 +108,7 @@ CodeAlpha_WebScraping/
 **Locally:**
 
 ```bash
-git clone https://github.com/evans25575/CodeAlpha_WebScraping.git
+git clone git clone https://github.com/evanskips2727-del/CodeAlpha_WebScraping.git
 cd CodeAlpha_WebScraping
 pip install -r requirements.txt
 jupyter notebook Task1_Web_Scraping.ipynb
